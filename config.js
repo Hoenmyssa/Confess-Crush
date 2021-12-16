@@ -1,11 +1,13 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    titleWeb: "Điều Hoèn muốn nói <3 ",
+    introTitle: 'Hôm nay là ngày gì nhỉ ? ',
+    introDesc: `Tài có biết hôm nay là ngày gì hông? Hôm nay là thứ hai ngày 20 tháng 12 năm 2021 đó hihi 
+    Nhưng mà hôm nay cũng là một ngày đặc biệt nữa , còn là ngày đặc biệt như thế nào thì hãy bấm vào trang tiếp theo nhaaaaa`,
+    btnIntro: 'Bấm vào đây nè hihi ^^',
+    question: 'Trước tiên H muốn hổi Tài một câu nè, Tài có biết hôm nay là ngày gì hông ',
+    btnReply: 'Gửi Hoèn dễ thương <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
